@@ -1,9 +1,12 @@
 
 <p align="center">
-  <video width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" autoplay loop muted>
-    <source src="https://videocdn.cdnpk.net/videos/3f5e7026-5ea6-4eca-8511-85b4c24d8374/horizontal/previews/clear/large.mp4?token=exp=1745771048~hmac=417c841aa54dc1195963593982ae96854bf9411b212f5ec8e6a17b22279842fa" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img 
+    src="https://img.freepik.com/free-ai-image/cartoon-ai-robot-scene_236376179.htm#fromView=search&page=1&position=16&uuid=2a206d70-2980-45b4-99b6-6bfecd2baf19&query=Coding+Gif"
+    alt="AI Robot Coding"
+    width="100%" 
+    height="250px"
+    style="object-fit: cover; border-radius: 10px;"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm VIVEK CHOVATIYA</h1>
