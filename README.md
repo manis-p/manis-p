@@ -25,7 +25,7 @@
 - ⚡ Fun fact: "Consistency beats talent every time."
 
 ---
-
+## 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 📫 Connect with Me
+
 
 
 
