@@ -1,10 +1,8 @@
 <p align="center">
-  <img 
-    src="https://videocdn.cdnpk.net/videos/d9afb252-5453-447f-bc67-99130f014b3c/horizontal/previews/clear/large.mp4?token=exp=1745770202~hmac=59265f3f79d4fd1c3e2347fcaa4a7f5a40eebf48bd8a09071dddb18d5979556c" 
-    alt="Banner" 
-    width="90%" 
-    style="max-height: 120px; object-fit: cover; border-radius: 10px;"
-  />
+  <video width="90%" height="120px" style="border-radius: 10px;" autoplay loop muted>
+    <source src="https://videocdn.cdnpk.net/videos/d9afb252-5453-447f-bc67-99130f014b3c/horizontal/previews/clear/large.mp4?token=exp=1745770202~hmac=59265f3f79d4fd1c3e2347fcaa4a7f5a40eebf48bd8a09071dddb18d5979556c" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 
