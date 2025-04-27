@@ -1,33 +1,74 @@
+<!-- Banner Image -->
+<img src="https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg?t=st=1745755393~exp=1745758993~hmac=15ed354a042eb1b0690e229ac1664406a927f74b110b82a7e00b80849445665c&w=900" alt="Banner" width="100%" />
 
-## 👋 Hi there, I'm [Manish Kumar Jha]!
-
-<!--
-**[your-username]/[your-username]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
----
-
-### 🚀 About Me
-- 🔭 Currently working on building backend APIs and microservices.
-- 🌱 Actively learning advanced Java concepts, Spring Boot with AI.
-- 👯 Always open to collaborate on open-source and real-world backend projects.
-- 🤔 Exploring opportunities to contribute to tech communities and startups.
-- 💬 Ask me about Java, Spring Boot, SQL, and Backend Development.
-- 📫 Reach me at: [jham7340@gmail.com] | [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
-- ⚡ Fun fact: I believe "Consistency beats talent."
+<h1 align="center">Hi 👋, I'm [Manish Kumar Jha]</h1>
+<h3 align="center">A passionate Java Backend Developer from India</h3>
 
 ---
 
-### 🛠️ Skills and Technologies
-- **Languages:** Java, SQL
-- **Frameworks:** Spring Boot, Hibernate
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, Eclipse, Postman,VS code
-- **Other Skills:** REST APIs, Problem Solving, Data Structures and Algorithms (DSA)
+## 🚀 About Me
+- 🔭 I’m currently working on backend development projects.
+- 🌱 I’m currently learning System Design and Advanced Spring Boot concepts.
+- 👯 I’m looking to collaborate on open-source Java/Spring Boot projects.
+- 🤔 I’m exploring opportunities to grow as a backend engineer.
+- 💬 Ask me about Java, Spring Boot, SQL, and REST API development.
+- 📫 How to reach me: [your-email@example.com] | [LinkedIn Profile Link]
+- ⚡ Fun fact: "Consistency beats talent every time."
 
 ---
 
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+> "Stay consistent, keep building. Your future self will thank you." 🚀
 
 
-> "Stay curious. Keep building. The journey is as important as the destination." 🚀
 
