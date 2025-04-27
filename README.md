@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="Banner Image" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm VIVEK CHOVATIYA</h1>
 <h3 align="center">A passionate Java software developer from India</h3>
@@ -36,3 +39,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-id&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
 </p>
+
