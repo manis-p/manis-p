@@ -23,8 +23,8 @@
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://leetcode.com/your-leetcode-id" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" /></a>
-<a href="https://github.com/your-github-id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/profile/jham7340" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" /></a>
+<a href="https://www.geeksforgeeks.org/user/jham7kzqj/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 </p>
 
 ### Languages and Tools:
