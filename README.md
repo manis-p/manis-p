@@ -1,14 +1,14 @@
 
 
-### My Video
-Here is the video I want to share:
-
-```html
 <p align="center">
-  <video width="90%" height="120px" style="border-radius: 10px;" autoplay loop muted>
-    <source src="https://videocdn.cdnpk.net/videos/3f5e7026-5ea6-4eca-8511-85b4c24d8374/horizontal/previews/clear/large.mp4?token=exp=1745771048~hmac=417c841aa54dc1195963593982ae96854bf9411b212f5ec8e6a17b22279842fa">
-  </video>
+  <img 
+    src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645562.jpg?t=st=1745768480~exp=1745772080~hmac=f32612f728665772eb8799641f5e01512e0f4bd8c8c9209683131c18c3a7f1d9&w=740" 
+    alt="Banner" 
+    width="90%" 
+    style="max-height: 150px; object-fit: cover; border-radius: 10px;"
+  />
 </p>
+
 
 
 
