@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://cdn.dribbble.com/userupload/18060757/file/original-9083bb537b0c614cdc3f8d34b0be4b26.mp4"
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     alt="AI Robot Coding"
     width="95%" 
     height="300px"
