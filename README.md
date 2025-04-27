@@ -27,16 +27,17 @@
 ---
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/jham7340" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/jham7340" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/23596064/manish-jha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/23596064/manish-jha" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/jham7kzqj/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://www.geeksforgeeks.org/user/jham7kzqj/" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+
 
 ## 🛠️ Languages and Tools
 
