@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img 
-    src="https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg?t=st=1745755393~exp=1745758993~hmac=15ed354a042eb1b0690e229ac1664406a927f74b110b82a7e00b80849445665c&w=900" 
+    src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645562.jpg?t=st=1745768480~exp=1745772080~hmac=f32612f728665772eb8799641f5e01512e0f4bd8c8c9209683131c18c3a7f1d9&w=740" 
     alt="Banner" 
     width="1000px"
     height="200px"
