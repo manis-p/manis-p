@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://img.freepik.com/free-photo/black-white-portrait-digital-nomads_23-2151254101.jpg?t=st=1745771435~exp=1745775035~hmac=a787a3d949f65e1603b2cc6a60d7650cd9fa29f48524bde14157106c7d234409&w=1380"
+    src="https://cdn.dribbble.com/userupload/18060757/file/original-9083bb537b0c614cdc3f8d34b0be4b26.mp4"
     alt="AI Robot Coding"
     width="95%" 
     height="300px"
