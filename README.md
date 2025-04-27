@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open-source Java/Spring Boot projects.
 - 🤔 I’m exploring opportunities to grow as a backend engineer.
 - 💬 Ask me about Java, Spring Boot, SQL, and REST API development.
-- 📫 How to reach me: [your-email@example.com] | [LinkedIn Profile Link]
+- 📫 How to reach me: [jham7340@gmail.com] | [https://www.linkedin.com/in/mkjha2001/]
 - ⚡ Fun fact: "Consistency beats talent every time."
 
 ---
