@@ -3,7 +3,7 @@
   <img 
     src="https://img.freepik.com/free-photo/cyber-security-experts-working-with-tech-devices-neon-lights_23-2151645654.jpg?t=st=1745771250~exp=1745774850~hmac=8baedee9b79eacbf2e9efa31d0fde767dc34cd6633f968c0988cc50661a3f3e5&w=740"
     alt="AI Robot Coding"
-    width="100%" 
+    width="50%" 
     height="250px"
     style="object-fit: cover; border-radius: 10px;"
   />
