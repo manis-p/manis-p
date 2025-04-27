@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner Image" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+  <video width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" autoplay loop muted>
+    <source src="https://videocdn.cdnpk.net/videos/3f5e7026-5ea6-4eca-8511-85b4c24d8374/horizontal/previews/clear/large.mp4?token=exp=1745771048~hmac=417c841aa54dc1195963593982ae96854bf9411b212f5ec8e6a17b22279842fa" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <h1 align="center">Hi 👋, I'm VIVEK CHOVATIYA</h1>
@@ -39,4 +42,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-id&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
 </p>
-
