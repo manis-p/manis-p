@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://img.freepik.com/free-ai-image/cartoon-ai-robot-scene_236376179.htm#fromView=search&page=1&position=16&uuid=2a206d70-2980-45b4-99b6-6bfecd2baf19&query=Coding+Gif"
+    src="https://img.freepik.com/free-photo/cyber-security-experts-working-with-tech-devices-neon-lights_23-2151645654.jpg?t=st=1745771250~exp=1745774850~hmac=8baedee9b79eacbf2e9efa31d0fde767dc34cd6633f968c0988cc50661a3f3e5&w=740"
     alt="AI Robot Coding"
     width="100%" 
     height="250px"
