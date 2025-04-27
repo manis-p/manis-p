@@ -3,12 +3,10 @@
     src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645562.jpg?t=st=1745768480~exp=1745772080~hmac=f32612f728665772eb8799641f5e01512e0f4bd8c8c9209683131c18c3a7f1d9&w=740" 
     alt="Banner" 
     width="90%" 
-    style="max-height: 220px; object-fit: cover; border-radius: 10px;"
+    style="max-height: 150px; object-fit: cover; border-radius: 10px;"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manish Kumar Jha</h1>
-<h3 align="center">A passionate Java Backend Developer from India</h3>
 
 
 ---
