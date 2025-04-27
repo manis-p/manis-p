@@ -39,8 +39,7 @@
 </p>
 
 
-## 🛠️ Languages and Tools
-
+## 💻 Technologies I Work With
 <p align="left">
   <a href="https://www.java.com/" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -60,7 +59,17 @@
   <a href="https://postman.com" target="_blank" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <a href="https://devdocs.io/c/" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 ---
