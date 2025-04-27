@@ -1,99 +1,38 @@
 
 
-<p align="center">
-  <img 
-    src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645562.jpg?t=st=1745768480~exp=1745772080~hmac=f32612f728665772eb8799641f5e01512e0f4bd8c8c9209683131c18c3a7f1d9&w=740" 
-    alt="Banner" 
-    width="90%" 
-    style="max-height: 150px; object-fit: cover; border-radius: 10px;"
-  />
-</p>
+<h1 align="center">Hi 👋, I'm VIVEK CHOVATIYA</h1>
+<h3 align="center">A passionate Java software developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently learning *Full Stack Development*
 
+- 🌱 I’m skilled in *Java, Spring Boot, Database*
 
-## 🚀 About Me
-- 🔭 I’m currently working on backend development projects.
-- 🌱 I’m currently learning System Design and Advanced Spring Boot concepts.
-- 👯 I’m looking to collaborate on open-source Java/Spring Boot projects.
-- 🤔 I’m exploring opportunities to grow as a backend engineer.
-- 💬 Ask me about Java, Spring Boot, SQL, and REST API development.
-- 📫 How to reach me: [jham7340@gmail.com] | [https://www.linkedin.com/in/mkjha2001/]
-- ⚡ Fun fact: "Consistency beats talent every time."
+- 📫 How to reach me *chovatiya.vivek2918@gmail.com*
 
----
-## 📫 Connect with Me
+### Connect with me:
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/jham7340" target="_blank" style="margin-right: 15px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/23596064/manish-jha" target="_blank" style="margin-right: 15px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/jham7kzqj/" target="_blank" style="margin-right: 15px;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://leetcode.com/your-leetcode-id" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="30" width="30" /></a>
+<a href="https://github.com/your-github-id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 </p>
 
-
-## 💻 Technologies I Work With
+### Languages and Tools:
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://devdocs.io/c/" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+### GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&locale=en" alt="your-github-id" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-id&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-
-
-
-
----
-
-> "Stay consistent, keep building. Your future self will thank you." 🚀
-
-
-
