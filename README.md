@@ -1,7 +1,11 @@
 <!-- Banner Image -->
-<img src="https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg?t=st=1745755393~exp=1745758993~hmac=15ed354a042eb1b0690e229ac1664406a927f74b110b82a7e00b80849445665c&w=900" alt="Banner" width="90%" />
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg?t=st=1745755393~exp=1745758993~hmac=15ed354a042eb1b0690e229ac1664406a927f74b110b82a7e00b80849445665c&w=900" 
+       alt="Banner" 
+       width="600px" />
+</p>
 
-<h1 align="center">Hi 👋, I'm [Manish Kumar Jha]</h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar Jha</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 
 ---
