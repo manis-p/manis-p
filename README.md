@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645562.jpg?t=st=1745768480~exp=1745772080~hmac=f32612f728665772eb8799641f5e01512e0f4bd8c8c9209683131c18c3a7f1d9&w=740" 
+    src="https://videocdn.cdnpk.net/videos/d9afb252-5453-447f-bc67-99130f014b3c/horizontal/previews/clear/large.mp4?token=exp=1745770202~hmac=59265f3f79d4fd1c3e2347fcaa4a7f5a40eebf48bd8a09071dddb18d5979556c" 
     alt="Banner" 
     width="90%" 
     style="max-height: 120px; object-fit: cover; border-radius: 10px;"
