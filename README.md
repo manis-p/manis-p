@@ -3,7 +3,7 @@
   <img 
     src="https://img.freepik.com/free-photo/black-white-portrait-digital-nomads_23-2151254101.jpg?t=st=1745771435~exp=1745775035~hmac=a787a3d949f65e1603b2cc6a60d7650cd9fa29f48524bde14157106c7d234409&w=1380"
     alt="AI Robot Coding"
-    width="50%" 
+    width="80%" 
     height="250px"
     style="object-fit: cover; border-radius: 10px;"
   />
