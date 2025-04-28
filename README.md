@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently learning *Full Stack Development*
+- 🔭 I’m currently learning *Java Developer*
 
 - 🌱 I’m skilled in *Java, Spring Boot, Database*
 
-- 📫 How to reach me *chovatiya.vivek2918@gmail.com*
+- 📫 How to reach me *jham7340@gmail.com*
 
 ### Connect with me:
 <p align="left">
