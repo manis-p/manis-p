@@ -74,14 +74,9 @@
     </a>
 </p>
 
-
-
-
 ### GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manis-p&show_icons=true&locale=en" alt="your-github-id" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=manis-p&show_icons=true&locale=en" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manis-p&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manis-p&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
-</p>
