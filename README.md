@@ -30,31 +30,31 @@
 ### Languages and Tools:
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
     </a>
     <a href="https://hibernate.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"/>
     </a>
     <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank">
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=oracle&logoColor=white" alt="JDBC"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=oracle&logoColor=white" alt="JDBC"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C Language"/>
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C Language"/>
     </a>
 </p>
 
