@@ -79,9 +79,9 @@
 
 ### GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&locale=en" alt="your-github-id" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manis-p&show_icons=true&locale=en" alt="your-github-id" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-id&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manis-p&show_icons=true&locale=en&layout=compact" alt="your-github-id" />
 </p>
