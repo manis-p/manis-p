@@ -28,7 +28,8 @@
 </p>
 
 ### Languages and Tools:
-<p align="left">
+
+   <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
     </a>
@@ -56,7 +57,23 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
         <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C Language"/>
     </a>
+    <a href="https://maven.apache.org/" target="_blank">
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="https://projectlombok.org/" target="_blank">
+        <img style="border-radius: 50%; height: 60px; width: 60px; object-fit: cover;" src="https://img.shields.io/badge/Lombok-EC2024?style=flat&logo=lombok&logoColor=white" alt="Lombok"/>
+    </a>
 </p>
+
 
 
 
